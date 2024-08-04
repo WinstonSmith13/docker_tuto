@@ -1,0 +1,7 @@
+{
+    "name": "docker-tuto/docker-tuto",
+    "description": "Un simple projet PHP avec Docker",
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
